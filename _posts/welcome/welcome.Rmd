@@ -4,9 +4,8 @@ description: |
   Welcome to our new blog, My Health Data Science Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+  - name: Kenneth Yin  
+    affiliation: UNSW Sydney
     affiliation_url: https://example.com/spacelysprokets
 date: 06-21-2023
 output:
